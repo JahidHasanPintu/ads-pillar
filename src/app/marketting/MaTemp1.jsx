@@ -5,7 +5,7 @@ const MaTemp1 = () => {
         <div className='relative w-[300px] h-[300px] '>
             {/* masking image  */}
             <div className="absolute overflow-hidden w-[193px] h-[241px] bottom-0 right-0">
-            <img src="https://img.freepik.com/premium-photo/portrait-beautiful-muslim-woman-hijab-fashion-model-posing-studiojpg_994418-12291.jpg" alt="" className='h-full w-full object-cover' />
+            <img src="https://dn9g5fz2o8iu4.cloudfront.net/ga_fmls/res/fc78090504d5941a790c2240d869dfef-1.jpg?v=1690560446" alt="" className='h-full w-full object-cover' />
             </div>
             {/* shapes of the canvas  */}
             <div className="absolute top-0 bottom-0 left-0 right-0">
